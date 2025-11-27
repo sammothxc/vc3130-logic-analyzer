@@ -1,0 +1,5 @@
+- replace ceramic caps on 4.9152MHz xtal (orange tipped, 20pF?)
+- test/replace 4.9152MHz xtal
+- test comms
+- convert rs423 to rs232
+- replace cmos battery (varta 990, 2.4v 110mAh)
